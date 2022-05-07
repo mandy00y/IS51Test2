@@ -15,3 +15,39 @@ will output average percentage above average 54.17%.
 
 """
 
+
+
+
+"""
+
+#def main()
+
+open file "Final.txt"
+grades = []
+close file
+for i range:
+    grades = int[]
+average = sum/ total count
+
+
+
+    #def calcualte_percentage_above_average()
+
+    initialize counter and sum to 0
+    if grade > average:
+        add
+        100 / len(grades)
+        above_average = format
+
+        
+    
+print "Number of grades:
+print "Average grade:
+print "Percentage of grades above average: 
+
+    calculate_percentage_above_average()
+
+
+main()
+
+"""
